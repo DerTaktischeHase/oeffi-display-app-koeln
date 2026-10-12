@@ -1,0 +1,11 @@
+de.oeffimatrix.app-webkit-1.12.1-0 C:\Users\timoh\.gradle\caches\8.13\transforms\467fc6d2ee20f5045b0add801cacaac1\transformed\webkit-1.12.1\res
+de.oeffimatrix.app-core-1.1.0-1 C:\Users\timoh\.gradle\caches\8.13\transforms\acc9ccdb6729d5f6585bc5eb5747a355\transformed\core-1.1.0\res
+de.oeffimatrix.app-annotation-experimental-1.4.1-2 C:\Users\timoh\.gradle\caches\8.13\transforms\bee07918b447d0673a9754f89478ce9d\transformed\annotation-experimental-1.4.1\res
+de.oeffimatrix.app-pngs-3 C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\build\generated\res\pngs\debug
+de.oeffimatrix.app-resValues-4 C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\build\generated\res\resValues\debug
+de.oeffimatrix.app-updated_navigation_xml-5 C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\build\generated\updated_navigation_xml\debug
+de.oeffimatrix.app-packageDebugResources-6 C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+de.oeffimatrix.app-packageDebugResources-7 C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+de.oeffimatrix.app-debug-8 C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\build\intermediates\merged_res\debug\mergeDebugResources
+de.oeffimatrix.app-debug-9 C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\debug\res
+de.oeffimatrix.app-main-10 C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\res

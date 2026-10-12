@@ -1,0 +1,82 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml:1:1-21:12
+INJECTED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml:1:1-21:12
+INJECTED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml:1:1-21:12
+INJECTED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml:1:1-21:12
+MERGED from [androidx.webkit:webkit:1.12.1] C:\Users\timoh\.gradle\caches\8.13\transforms\467fc6d2ee20f5045b0add801cacaac1\transformed\webkit-1.12.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\timoh\.gradle\caches\8.13\transforms\bee07918b447d0673a9754f89478ce9d\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\timoh\.gradle\caches\8.13\transforms\acc9ccdb6729d5f6585bc5eb5747a355\transformed\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\timoh\.gradle\caches\8.13\transforms\5f6d536ea004c9a11260ac341ff35d63\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\timoh\.gradle\caches\8.13\transforms\39b078a67d611d096ff26098a12d3077\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml:2:5-67
+	android:name
+		ADDED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml:2:22-64
+application
+ADDED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml:4:5-20:19
+INJECTED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml:4:5-20:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\timoh\.gradle\caches\8.13\transforms\acc9ccdb6729d5f6585bc5eb5747a355\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\timoh\.gradle\caches\8.13\transforms\acc9ccdb6729d5f6585bc5eb5747a355\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\timoh\.gradle\caches\8.13\transforms\5f6d536ea004c9a11260ac341ff35d63\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\timoh\.gradle\caches\8.13\transforms\5f6d536ea004c9a11260ac341ff35d63\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\timoh\.gradle\caches\8.13\transforms\acc9ccdb6729d5f6585bc5eb5747a355\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml:8:9-35
+	android:label
+		ADDED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml:7:9-41
+	android:icon
+		ADDED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml:6:9-45
+	android:allowBackup
+		ADDED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml:5:9-36
+	android:theme
+		ADDED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml:9:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml:10:9-45
+activity#de.oeffimatrix.app.MainActivity
+ADDED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml:11:9-19:20
+	android:exported
+		ADDED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml:14:13-36
+	android:configChanges
+		ADDED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml:13:13-74
+	android:name
+		ADDED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml:12:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.webkit:webkit:1.12.1] C:\Users\timoh\.gradle\caches\8.13\transforms\467fc6d2ee20f5045b0add801cacaac1\transformed\webkit-1.12.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.webkit:webkit:1.12.1] C:\Users\timoh\.gradle\caches\8.13\transforms\467fc6d2ee20f5045b0add801cacaac1\transformed\webkit-1.12.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\timoh\.gradle\caches\8.13\transforms\bee07918b447d0673a9754f89478ce9d\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\timoh\.gradle\caches\8.13\transforms\bee07918b447d0673a9754f89478ce9d\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\timoh\.gradle\caches\8.13\transforms\acc9ccdb6729d5f6585bc5eb5747a355\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\timoh\.gradle\caches\8.13\transforms\acc9ccdb6729d5f6585bc5eb5747a355\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\timoh\.gradle\caches\8.13\transforms\5f6d536ea004c9a11260ac341ff35d63\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\timoh\.gradle\caches\8.13\transforms\5f6d536ea004c9a11260ac341ff35d63\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\timoh\.gradle\caches\8.13\transforms\39b078a67d611d096ff26098a12d3077\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\timoh\.gradle\caches\8.13\transforms\39b078a67d611d096ff26098a12d3077\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\timoh\dev\testprojects\led_matrix_anzeige\oeffi-matrix\android\app\src\main\AndroidManifest.xml
