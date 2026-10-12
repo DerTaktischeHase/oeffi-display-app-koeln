@@ -1,0 +1,1 @@
+originally for a led-matrix. So you can always see when the trams etc. are coming at my station. And they look like alot of Displays in tram stations in koeln. Android app compiles out of the main folder files so dont mess with Android folder. Also almost everything made in 2 days thanks to vs code agents. #ai
